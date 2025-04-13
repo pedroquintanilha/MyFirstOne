@@ -57,8 +57,9 @@ public class Test {
 	else 
 		System.out.print("Okay, bye then! :)");
 	
-	}
+	}//neu
 }
+
 	
 
 	
